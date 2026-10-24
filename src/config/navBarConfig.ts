@@ -46,7 +46,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			LinkPresets.Friends,
 
 			// 留言
-			LinkPresets.Guestbook,
+			// LinkPresets.Guestbook,
 		],
 	});
 
@@ -108,12 +108,6 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				url: "https://github.com/CuteLeaf/Firefly",
 				external: true,
 				icon: "fa7-brands:github",
-			},
-			{
-				name: "Gitee",
-				url: "https://gitee.com/CuteLeaf/Firefly",
-				external: true,
-				icon: "fa7-brands:gitee",
 			},
 			{
 				name: "Firefly文档",
