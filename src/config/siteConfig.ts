@@ -51,8 +51,7 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://card.hhzzyy.top/",
 
 	// 站点描述
-	description:
-		"这是个人学习记录网站。",
+	description: "这是个人学习记录网站。",
 
 	// 站点关键词
 	keywords: [
