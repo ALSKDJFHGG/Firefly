@@ -1,6 +1,7 @@
 ---
 title: 滑动窗口leetcode记录
 published: 2026-10-24
+updated: 2026-10-25
 description: 滑动窗口学习记录
 tags: [算法, 滑动窗口]
 category: 算法
@@ -40,5 +41,5 @@ draft: false
 ### 2.1 基础
 - [x] [3. 无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) 
 - [x] [3090. 每个字符最多出现两次的最长子字符串](https://leetcode.cn/problems/maximum-length-substring-with-two-occurrences/) 
-- [ ] [1493. 删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) 
-- [ ] 
+- [x] [1493. 删掉一个元素以后全为 1 的最长子数组](https://leetcode.cn/problems/longest-subarray-of-1s-after-deleting-one-element/) 
+- [ ] [3634. 使数组平衡的最少移除数目](https://leetcode.cn/problems/minimum-removals-to-balance-array/) 
